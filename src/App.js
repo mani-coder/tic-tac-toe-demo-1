@@ -98,7 +98,7 @@ function App() {
       width: '100vw',
       height:'100vh',
       // #ffccc7 - red, #ffffb8 -- yellow, #b5f5ec -- cyan, #ffd6e7 -- magenta
-      // backgroundColor: '#ffccc7',
+      backgroundColor: '#ffccc7',
     }}>
       <p style={{ fontSize: 32, fontWeight: 'bold' }}>
         Tic Tac Toe
